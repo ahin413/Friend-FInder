@@ -1,7 +1,7 @@
 var friends = [
     {
         "name": "Max",
-        "photo",
+        "photo": "" ,
         "scores":[
             1,
             3,
@@ -15,11 +15,11 @@ var friends = [
             3
         
         ]
-    }
+    },
 
     {
         "name": "Sarah",
-        "photo",
+        "photo":"",
         "scores":[
             3,
             2,
@@ -36,7 +36,7 @@ var friends = [
     },
     {
         "name": "Joe",
-        "photo",
+        "photo":"",
         "scores":[
             5,
             4,
@@ -53,7 +53,7 @@ var friends = [
     },
     {
         "name": "Kelly",
-        "photo",
+        "photo": "",
         "scores":[
             3,
             2,
@@ -70,7 +70,7 @@ var friends = [
     },
     {
         "name": "Ben",
-        "photo",
+        "photo":"",
         "scores":[
             4,
             5,
@@ -87,7 +87,7 @@ var friends = [
     },
     {
         "name": "Beth",
-        "photo",
+        "photo":"",
         "scores":[
             3,
             2,

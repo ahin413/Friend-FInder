@@ -1,4 +1,4 @@
-var friends = require("./data/friends.js");
+var friends = require("/Users/annemariehin/bootcamp/Friend-FInder/FriendFinder/app/data/friends.js");
 
 module.export = function(app){
     app.get("/api/friends", function(req, res){
